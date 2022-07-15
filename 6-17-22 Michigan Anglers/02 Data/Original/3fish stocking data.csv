@@ -1,0 +1,590 @@
+year,species,number_stocked
+1994,atlantic salmon,39074
+1994,bluegill,455
+1994,brook trout,309536
+1994,brown trout,2411757
+1994,channel catfish,64230
+1994,chinook salmon,7435405
+1994,coho salmon,626914
+1994,fathead minnow,28000
+1994,flathead catfish,1203
+1994,hybrid sunfish,914
+1994,lake sturgeon,8396
+1994,lake trout,5011563
+1994,lake whitefish,5621
+1994,largemouth bass,22210
+1994,muskellunge,13799
+1994,northern pike,357139
+1994,pumpkinseed,51
+1994,rainbow trout,2660097
+1994,redear sunfish,69198
+1994,smallmouth bass,6970
+1994,splake,544416
+1994,tiger muskellunge,1
+1994,walleye,30851324
+1994,yellow perch,34706
+1995,atlantic salmon,68066
+1995,black crappie,579
+1995,bluegill,5075
+1995,brook trout,392920
+1995,brown trout,2026430
+1995,channel catfish,118021
+1995,chinook salmon,7970265
+1995,coho salmon,1201734
+1995,fathead minnow,1276000
+1995,flathead catfish,49
+1995,hybrid sunfish,1100
+1995,lake herring,307
+1995,lake sturgeon,14872
+1995,lake trout,3502957
+1995,lake whitefish,34117
+1995,largemouth bass,10909
+1995,muskellunge,94777
+1995,northern pike,487279
+1995,rainbow smelt,47610
+1995,rainbow trout,2449268
+1995,redear sunfish,652115
+1995,smallmouth bass,23366
+1995,splake,685907
+1995,walleye,26974435
+1995,yellow perch,533956
+1996,atlantic salmon,43725
+1996,black crappie,1000
+1996,bluegill,7364
+1996,brook trout,246052
+1996,brown trout,2003513
+1996,channel catfish,69628
+1996,chinook salmon,7384359
+1996,coho salmon,1973435
+1996,fathead minnow,1270000
+1996,flathead catfish,1587
+1996,hybrid sunfish,3500
+1996,lake herring,16770
+1996,lake trout,3525939
+1996,lake whitefish,2451
+1996,largemouth bass,13638
+1996,muskellunge,7356
+1996,northern pike,1064803
+1996,rainbow trout,2535711
+1996,redear sunfish,96968
+1996,smallmouth bass,1527
+1996,splake,588835
+1996,walleye,23372896
+1996,yellow perch,110069
+1997,atlantic salmon,56732
+1997,black crappie,46
+1997,bluegill,219850
+1997,bluntnose minnow,2000
+1997,brook trout,192265
+1997,brown trout,2020517
+1997,channel catfish,72042
+1997,chinook salmon,6672382
+1997,coho salmon,1722219
+1997,fathead minnow,511482
+1997,flathead catfish,20
+1997,golden shiner,9994
+1997,lake sturgeon,2438
+1997,lake trout,3760410
+1997,lake whitefish,3151
+1997,largemouth bass,9226
+1997,muskellunge,88329
+1997,northern pike,104177
+1997,rainbow trout,2567686
+1997,redear sunfish,322836
+1997,smallmouth bass,131940
+1997,splake,401724
+1997,walleye,12607766
+1997,yellow perch,79930
+1998,atlantic salmon,104976
+1998,black crappie,5300
+1998,bluegill,11720
+1998,brook trout,214696
+1998,brown trout,1861715
+1998,channel catfish,120175
+1998,chinook salmon,6845225
+1998,coho salmon,1100599
+1998,fathead minnow,339001
+1998,hybrid sunfish,11000
+1998,lake sturgeon,11737
+1998,lake trout,5203650
+1998,largemouth bass,7652
+1998,muskellunge,10257
+1998,northern pike,95469
+1998,pumpkinseed,100
+1998,rainbow trout,2284224
+1998,redear sunfish,15358
+1998,smallmouth bass,155943
+1998,splake,355353
+1998,walleye,28403602
+1998,yellow perch,57608
+1999,atlantic salmon,112965
+1999,black crappie,300
+1999,bluegill,56522
+1999,brook trout,332834
+1999,brown trout,1809524
+1999,channel catfish,103828
+1999,chinook salmon,5511514
+1999,coho salmon,1796218
+1999,fathead minnow,136009
+1999,flathead catfish,10
+1999,hybrid sunfish,11100
+1999,lake sturgeon,6976
+1999,lake trout,3079186
+1999,largemouth bass,8499
+1999,muskellunge,5483
+1999,northern pike,52297
+1999,pumpkinseed,1069
+1999,rainbow smelt,500000
+1999,rainbow trout,2270101
+1999,redear sunfish,60271
+1999,splake,373589
+1999,walleye,19225506
+1999,yellow perch,135750
+2000,atlantic salmon,76787
+2000,bluegill,6709
+2000,brook trout,506937
+2000,brown trout,2038999
+2000,channel catfish,84999
+2000,chinook salmon,5805742
+2000,coho salmon,1785240
+2000,flathead catfish,3
+2000,hybrid sunfish,3625
+2000,lake sturgeon,7518
+2000,lake trout,4267265
+2000,muskellunge,24891
+2000,northern pike,19129
+2000,pumpkinseed,15
+2000,rainbow smelt,125000
+2000,rainbow trout,2209763
+2000,redear sunfish,40329
+2000,smallmouth bass,2229
+2000,splake,355719
+2000,walleye,16693089
+2000,yellow perch,534
+2001,atlantic salmon,67213
+2001,black crappie,2500
+2001,bluegill,12545
+2001,brook trout,319539
+2001,brown trout,1854331
+2001,channel catfish,84308
+2001,chinook salmon,5731282
+2001,coho salmon,1794647
+2001,fathead minnow,34375
+2001,golden shiner,3745
+2001,lake sturgeon,4358
+2001,lake trout,3271708
+2001,largemouth bass,398
+2001,muskellunge,6782
+2001,northern pike,14541
+2001,rainbow trout,2223099
+2001,redear sunfish,18711
+2001,splake,358397
+2001,tiger muskellunge,222
+2001,walleye,23589415
+2001,yellow perch,25350
+2002,atlantic salmon,96050
+2002,black crappie,4000
+2002,bluegill,5000
+2002,brook trout,262368
+2002,brown trout,1774538
+2002,channel catfish,78510
+2002,chinook salmon,5301568
+2002,coho salmon,1568973
+2002,fathead minnow,20000
+2002,hybrid sunfish,1296
+2002,lake sturgeon,9502
+2002,lake trout,3119411
+2002,largemouth bass,715
+2002,muskellunge,6103
+2002,northern pike,249689
+2002,rainbow trout,2552638
+2002,redear sunfish,15521
+2002,smallmouth bass,50
+2002,splake,421265
+2002,walleye,15615760
+2002,yellow perch,5726
+2003,atlantic salmon,100891
+2003,black crappie,250
+2003,bluegill,2300
+2003,brook trout,411080
+2003,brown trout,1750789
+2003,channel catfish,64456
+2003,chinook salmon,5702599
+2003,coho salmon,2131567
+2003,fathead minnow,65900
+2003,hybrid sunfish,8749
+2003,lake sturgeon,5605
+2003,lake trout,3781437
+2003,lake whitefish,50
+2003,largemouth bass,550
+2003,muskellunge,14018
+2003,northern pike,262569
+2003,rainbow trout,2653252
+2003,redear sunfish,1254
+2003,smallmouth bass,53
+2003,splake,424497
+2003,walleye,17978344
+2003,yellow perch,23595
+2004,atlantic salmon,48969
+2004,black crappie,402
+2004,bluegill,8800
+2004,brook trout,437071
+2004,brown trout,1657922
+2004,channel catfish,86899
+2004,chinook salmon,5543022
+2004,coho salmon,691420
+2004,fathead minnow,45990
+2004,golden shiner,1587
+2004,hybrid sunfish,6045
+2004,lake sturgeon,10870
+2004,lake trout,3782711
+2004,largemouth bass,3460
+2004,muskellunge,31304
+2004,northern pike,253402
+2004,rainbow trout,1879195
+2004,redear sunfish,1534
+2004,smallmouth bass,450
+2004,splake,356427
+2004,walleye,16987508
+2004,yellow perch,7208
+2005,atlantic salmon,68875
+2005,black crappie,1620
+2005,bluegill,9250
+2005,brook trout,437545
+2005,brown trout,1663655
+2005,channel catfish,75117
+2005,chinook salmon,5601652
+2005,coho salmon,1532071
+2005,fathead minnow,138333
+2005,golden shiner,3175
+2005,hybrid sunfish,4472
+2005,lake sturgeon,8440
+2005,lake trout,3739410
+2005,largemouth bass,1802
+2005,muskellunge,36668
+2005,northern pike,12353
+2005,rainbow trout,1998649
+2005,redear sunfish,3200
+2005,smallmouth bass,22
+2005,splake,432217
+2005,walleye,9455361
+2005,yellow perch,990
+2006,atlantic salmon,72108
+2006,black crappie,2408
+2006,bluegill,5000
+2006,brook trout,327569
+2006,brown trout,1766914
+2006,channel catfish,10225
+2006,chinook salmon,3504396
+2006,coho salmon,1683927
+2006,fathead minnow,50167
+2006,golden shiner,1095
+2006,hybrid sunfish,9475
+2006,lake herring,1470
+2006,lake sturgeon,8133
+2006,lake trout,3584564
+2006,largemouth bass,471
+2006,muskellunge,189320
+2006,northern pike,154611
+2006,rainbow trout,1978051
+2006,redear sunfish,2350
+2006,smallmouth bass,1000
+2006,splake,371920
+2006,walleye,26206510
+2006,yellow perch,3200
+2007,atlantic salmon,39449
+2007,black crappie,900
+2007,bluegill,16910
+2007,brook trout,195257
+2007,brown trout,1211445
+2007,channel catfish,4400
+2007,chinook salmon,3423670
+2007,coho salmon,1150930
+2007,fathead minnow,232100
+2007,golden shiner,9600
+2007,hybrid sunfish,4825
+2007,lake herring,46
+2007,lake sturgeon,4278
+2007,lake trout,4530461
+2007,largemouth bass,1010
+2007,muskellunge,4078
+2007,northern pike,5150
+2007,rainbow trout,2138139
+2007,redear sunfish,1200
+2007,smallmouth bass,1200
+2007,splake,314510
+2007,walleye,402887
+2007,yellow perch,3220
+2008,atlantic salmon,51699
+2008,black crappie,1300
+2008,bluegill,3254
+2008,brook trout,285050
+2008,brown trout,1582463
+2008,channel catfish,15846
+2008,chinook salmon,3424365
+2008,coho salmon,1215149
+2008,fathead minnow,434667
+2008,golden shiner,4800
+2008,hybrid sunfish,6112
+2008,lake herring,6271
+2008,lake sturgeon,977
+2008,lake trout,3672960
+2008,largemouth bass,1003
+2008,muskellunge,39828
+2008,northern pike,50130
+2008,rainbow trout,1869863
+2008,redear sunfish,3000
+2008,smallmouth bass,500
+2008,splake,353031
+2008,walleye,2025551
+2008,white sucker,1019
+2008,yellow perch,8325
+2009,atlantic salmon,28400
+2009,black crappie,1850
+2009,bluegill,4552
+2009,brook trout,223979
+2009,brown trout,1731390
+2009,channel catfish,76875
+2009,chinook salmon,3401146
+2009,coho salmon,861145
+2009,fathead minnow,718498
+2009,hybrid sunfish,6425
+2009,lake herring,40012
+2009,lake sturgeon,2028
+2009,lake trout,3676817
+2009,largemouth bass,220
+2009,muskellunge,3830
+2009,northern pike,8430
+2009,rainbow trout,2903632
+2009,redear sunfish,1407
+2009,splake,307419
+2009,walleye,3114404
+2009,yellow perch,5656
+2010,atlantic salmon,38999
+2010,black crappie,3608
+2010,bluegill,7740
+2010,brook trout,241705
+2010,brown trout,1690837
+2010,channel catfish,29516
+2010,chinook salmon,3383344
+2010,coho salmon,1609802
+2010,fathead minnow,165148
+2010,golden shiner,58000
+2010,hybrid sunfish,2093
+2010,lake sturgeon,9502
+2010,lake trout,3793130
+2010,largemouth bass,5993
+2010,muskellunge,27776
+2010,northern pike,5759
+2010,rainbow trout,1867130
+2010,redear sunfish,6723
+2010,smallmouth bass,580
+2010,splake,227617
+2010,walleye,2302590
+2010,yellow perch,9395
+2011,atlantic salmon,75589
+2011,black crappie,1300
+2011,bluegill,2490
+2011,brook trout,272066
+2011,brown trout,1640908
+2011,channel catfish,56956
+2011,chinook salmon,3345254
+2011,coho salmon,1628923
+2011,fathead minnow,217500
+2011,golden shiner,10830
+2011,hybrid sunfish,13216
+2011,lake herring,9495
+2011,lake sturgeon,3901
+2011,lake trout,4308076
+2011,largemouth bass,1980
+2011,muskellunge,15183
+2011,northern pike,3062
+2011,rainbow trout,2614269
+2011,redear sunfish,4350
+2011,smallmouth bass,155
+2011,splake,230718
+2011,tiger muskellunge,100
+2011,walleye,11683733
+2011,yellow perch,1930
+2012,atlantic salmon,124776
+2012,black crappie,6162
+2012,bluegill,9932
+2012,brook trout,157233
+2012,brown trout,2032740
+2012,channel catfish,14813
+2012,chinook salmon,2655648
+2012,coho salmon,1750685
+2012,fathead minnow,136200
+2012,hybrid sunfish,8615
+2012,lake sturgeon,7450
+2012,lake trout,3976080
+2012,largemouth bass,1684
+2012,muskellunge,28280
+2012,northern pike,8275
+2012,pumpkinseed,4841
+2012,rainbow trout,3214279
+2012,redear sunfish,2760
+2012,smallmouth bass,6587
+2012,splake,218397
+2012,walleye,10521861
+2012,yellow perch,10338
+2013,atlantic salmon,185718
+2013,black crappie,5447
+2013,bluegill,8702
+2013,brook trout,180920
+2013,brown trout,1439411
+2013,channel catfish,51948
+2013,chinook salmon,1597776
+2013,coho salmon,1589829
+2013,emerald shiner,14400
+2013,fathead minnow,326400
+2013,golden shiner,20600
+2013,hybrid sunfish,9703
+2013,lake sturgeon,31125
+2013,lake trout,3822494
+2013,largemouth bass,2143
+2013,muskellunge,56143
+2013,northern pike,7479
+2013,pumpkinseed,767
+2013,rainbow trout,2523607
+2013,redear sunfish,3989
+2013,splake,229228
+2013,walleye,8761596
+2013,yellow perch,7351
+2014,atlantic salmon,225175
+2014,black crappie,15679
+2014,bluegill,12430
+2014,brook trout,160238
+2014,brown trout,1377770
+2014,channel catfish,16684
+2014,chinook salmon,1628485
+2014,coho salmon,1570200
+2014,fathead minnow,392400
+2014,golden shiner,33333
+2014,hybrid sunfish,7831
+2014,lake herring,57905
+2014,lake sturgeon,5980
+2014,lake trout,3794673
+2014,largemouth bass,4016
+2014,muskellunge,44044
+2014,northern pike,108095
+2014,rainbow trout,2134708
+2014,redear sunfish,4816
+2014,smallmouth bass,1496
+2014,splake,202057
+2014,walleye,15608625
+2014,yellow perch,16191
+2015,atlantic salmon,228224
+2015,black crappie,10768
+2015,bluegill,4205
+2015,brook trout,141291
+2015,brown trout,1891423
+2015,channel catfish,36674
+2015,chinook salmon,1670407
+2015,coho salmon,1688379
+2015,fathead minnow,452845
+2015,golden shiner,77600
+2015,hybrid sunfish,10899
+2015,lake sturgeon,41840
+2015,lake trout,4090244
+2015,largemouth bass,1423
+2015,muskellunge,109091
+2015,northern pike,5919
+2015,rainbow trout,2518086
+2015,redear sunfish,3430
+2015,smallmouth bass,525
+2015,splake,211660
+2015,walleye,19291784
+2015,yellow perch,10975
+2016,atlantic salmon,238619
+2016,black crappie,14124
+2016,bluegill,4160
+2016,brook trout,183056
+2016,brown trout,1332485
+2016,channel catfish,21453
+2016,chinook salmon,1471051
+2016,coho salmon,1562086
+2016,fathead minnow,1199500
+2016,golden shiner,138000
+2016,hybrid sunfish,7488
+2016,lake herring,71491
+2016,lake sturgeon,68461
+2016,lake trout,3777207
+2016,largemouth bass,1200
+2016,muskellunge,27050
+2016,northern pike,10719
+2016,rainbow trout,2059920
+2016,redear sunfish,6627
+2016,smallmouth bass,2833
+2016,splake,233704
+2016,walleye,30042851
+2016,yellow perch,11320
+2017,atlantic salmon,139368
+2017,black crappie,5235
+2017,bluegill,16804
+2017,brook trout,139100
+2017,brown trout,1400900
+2017,channel catfish,27664
+2017,chinook salmon,1008044
+2017,coho salmon,1606338
+2017,fathead minnow,654250
+2017,hybrid sunfish,11064
+2017,lake herring,95341
+2017,lake sturgeon,3887
+2017,lake trout,4008250
+2017,largemouth bass,2175
+2017,muskellunge,1461
+2017,northern pike,3438
+2017,rainbow trout,2540931
+2017,redear sunfish,911
+2017,smallmouth bass,300
+2017,splake,225230
+2017,walleye,22180047
+2017,yellow perch,9908
+2018,atlantic salmon,234777
+2018,black crappie,5402
+2018,bluegill,13340
+2018,brook trout,179568
+2018,brown trout,1561416
+2018,channel catfish,7725
+2018,chinook salmon,1242630
+2018,coho salmon,1614155
+2018,fathead minnow,792900
+2018,golden shiner,128800
+2018,hybrid sunfish,10943
+2018,lake herring,87696
+2018,lake sturgeon,5140
+2018,lake trout,2996344
+2018,lake whitefish,30476
+2018,largemouth bass,1225
+2018,muskellunge,70202
+2018,northern pike,417
+2018,rainbow trout,2466397
+2018,redear sunfish,2435
+2018,splake,201017
+2018,tiger muskellunge,100
+2018,walleye,21731367
+2018,yellow perch,16251
+2019,atlantic salmon,175878
+2019,black crappie,9543
+2019,bluegill,16800
+2019,brook trout,239985
+2019,brown trout,1142603
+2019,channel catfish,59081
+2019,chinook salmon,1131834
+2019,coho salmon,1702644
+2019,fathead minnow,511125
+2019,golden shiner,162500
+2019,hybrid sunfish,15272
+2019,lake herring,54739
+2019,lake sturgeon,18441
+2019,lake trout,2906739
+2019,lake whitefish,40112
+2019,largemouth bass,1576
+2019,muskellunge,82390
+2019,northern pike,3107
+2019,rainbow trout,2384181
+2019,redear sunfish,590
+2019,splake,187218
+2019,walleye,18011338
+2019,yellow perch,8040
